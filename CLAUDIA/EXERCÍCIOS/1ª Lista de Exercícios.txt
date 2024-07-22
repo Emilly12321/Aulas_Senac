@@ -1,0 +1,4 @@
+1ª Lista de Exercícios
+
+1. FUP que leia o ano que você nasceu e calcule a sua idade.
+2. Faça um programa em C++ para ler um número que representa a temperatura em Celsius e converta para Farehneit (pesquise a fórmula), imprimindo o resultado na tela.
