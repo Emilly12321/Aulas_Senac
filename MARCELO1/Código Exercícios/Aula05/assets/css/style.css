@@ -1,0 +1,13 @@
+.destaque {
+    background-color: aquamarine;
+    color: red;
+    font-weight: bold;
+}
+
+#eventoParagrafo {
+    transition: background-color 0.9s;
+}
+
+#eventoParagrafo.hover {
+    background-color: yellow;
+}
