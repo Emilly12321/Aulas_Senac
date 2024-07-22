@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "name": "Resort Paraíso Tropical",
+    "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Fuja para o melhor retiro paradisíaco tropical com praias imaculadas, vegetação exuberante e acomodações luxuosas.",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Oceano Pacífico",
+    "category": "Praias"
+  },
+  {
+    "id": "2",
+    "name": "Retiro em Chalé Alpino",
+    "image": "https://images.unsplash.com/photo-1512273222628-4daea6e55abb?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Experimente a beleza deslumbrante dos Alpes no seu chalé aconchegante, cercado por picos nevados e vilas encantadoras.",
+    "rating": 4.5,
+    "price": "120",
+    "duration": "4",
+    "location": "Suíça",
+    "category": "Montanhas"
+  },
+  {
+    "id": "3",
+    "name": "O sonho do explorador urbano",
+    "image": "https://images.unsplash.com/photo-1546436836-07a91091f160?q=80&w=3548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Mergulhe na energia vibrante da cidade com ruas movimentadas, marcos icônicos e experiências culturais infinitas.",
+    "rating": 4.7,
+    "price": "140",
+    "duration": "2",
+    "location": "EUA",
+    "category": "Cidades"
+  },
+  {
+    "id": "4",
+    "name": "Retiro Floresta Encantada",
+    "image": "https://plus.unsplash.com/premium_photo-1668917805105-2d5d9e49af87?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Encontre serenidade no coração da natureza com árvores imponentes, cachoeiras escondidas e vida selvagem encantadora neste retiro mágico na floresta.",
+    "rating": 4.6,
+    "price": "180",
+    "duration": "5",
+    "location": "EUA",
+    "category": "Florestas"
+  },
+  {
+    "id": "5",
+    "name": "Refúgio tranquilo à beira do lago",
+    "image": "https://images.unsplash.com/photo-1535927583620-7940e95a5a05?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFrZSx0cmFucXVpbHx8fHx8fDE3MTEwMzI1MjA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Relaxe e rejuvenesça à beira do lago tranquilo, cercado por paisagens deslumbrantes e serenidade pacífica.",
+    "rating": 4.9,
+    "price": "120",
+    "duration": "3",
+    "location": "Inglaterra",
+    "category": "Lagos"
+  },
+  {
+    "id": "6",
+    "name": "Sandy Shores Beach Resort",
+    "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVhY2gsc2FuZHl8fHx8fHwxNzExMDMyNTg5&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Delicie-se com o máximo luxo à beira-mar com areias cristalinas, águas cristalinas e comodidades de classe mundial.",
+    "rating": 4.8,
+    "price": "140",
+    "duration": "2",
+    "location": "Maldivas",
+    "category": "Praias"
+  },
+  {
+    "id": "7",
+    "name": "Majestoso Chalé de Montanha",
+    "image": "https://images.unsplash.com/photo-1543768179-656dbc9d9be9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bW91bnRhaW4sbWFqZXN0aWN8fHx8fHwxNzExMDMyNjUw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Relaxe no luxo em meio a picos de montanhas majestosas, prados alpinos e vistas deslumbrantes.",
+    "rating": 4.7,
+    "price": "100",
+    "duration": "7",
+    "location": "Canadá",
+    "category": "Montanhas"
+  },
+  {
+    "id": "8",
+    "name": "Maravilhas Metropolitanas",
+    "image": "https://images.unsplash.com/photo-1697543117287-53b5ab69742b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2l0eSxtZXRyb3BvbGl0YW58fHx8fHwxNzExMDMyNzM1&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Descubra a riqueza cultural e as maravilhas arquitetônicas das movimentadas metrópoles ao redor do mundo.",
+    "rating": 4.6,
+    "price": "170",
+    "duration": "3",
+    "location": "Japão",
+    "category": "Cidades"
+  },
+  {
+    "id": "9",
+    "name": "Santuário da Floresta Mística",
+    "image": "https://images.unsplash.com/photo-1496564692837-ec757c470e07?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8Zm9yZXN0LG15c3RpY2FsfHx8fHx8MTcxMTAzMjgyNA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Embarque em uma viagem por florestas antigas, ruínas místicas e maravilhas escondidas neste santuário encantado.",
+    "rating": 4.9,
+    "price": "80",
+    "duration": "2",
+    "location": "Brasil",
+    "category": "Florestas"
+  },
+  {
+    "id": "10",
+    "name": "Retiro sereno no lago",
+    "image": "https://images.unsplash.com/photo-1541420937988-702d78cb9fa1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFrZSxzZXJlbmV8fHx8fHwxNzExMDMyODcx&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Fuja da agitação da vida na cidade e mergulhe na beleza serena da vida à beira do lago.",
+    "rating": 4.5,
+    "price": "120",
+    "duration": "3",
+    "location": "EUA",
+    "category": "Lagos"
+  },
+  {
+    "id": "11",
+    "name": "Golden Sands Beach Resort",
+    "image": "https://images.unsplash.com/photo-1535792679781-7a212687bc8f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8YmVhY2gsZ29sZGVufHx8fHx8MTcxMTAzMjkzOQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Experimente o paraíso na terra com areias douradas, águas azuis e acomodações luxuosas à beira-mar.",
+    "rating": 4.8,
+    "price": "150",
+    "duration": "3",
+    "location": "Fiji",
+    "category": "Praias"
+  },
+  {
+    "id": "12",
+    "name": "Alojamento de aventura alpina",
+    "image": "https://images.unsplash.com/photo-1521929135277-1891dc05ef4d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bW91bnRhaW4sYWxwaW5lfHx8fHx8MTcxMTAzMjk4OQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Embarque em uma aventura alpina inesquecível com atividades emocionantes ao ar livre e acomodações aconchegantes.",
+    "rating": 4.6,
+    "price": "120",
+    "duration": "3",
+    "location": "Itália",
+    "category": "Montanhas"
+  },
+  {
+    "id": "13",
+    "name": "Capitais Culturais",
+    "image": "https://images.unsplash.com/photo-1689723744935-60e01c337543?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2l0eSxjdWx0dXJhbHx8fHx8fDE3MTEwMzMwODY&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Explore a vibrante tapeçaria de cultura, história e arte nas capitais culturais mais cativantes do mundo.",
+    "rating": 4.7,
+    "price": "130",
+    "duration": "5",
+    "location": "França",
+    "category": "Cidades"
+  },
+  {
+    "id": "14",
+    "name": "Bosque Encantado",
+    "image": "https://images.unsplash.com/photo-1541897174996-d68b4a8055c9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8Zm9yZXN0LGdyb3ZlfHx8fHx8MTcxMTAzMzEyMQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Entre em um reino de encantamento e admiração neste bosque místico repleto de árvores antigas e criaturas mágicas.",
+    "rating": 4.9,
+    "price": "150",
+    "duration": "3",
+    "location": "Alemanha",
+    "category": "Florestas"
+  },
+  {
+    "id": "15",
+    "name": "Refúgio tranquilo na montanha",
+    "image": "https://images.unsplash.com/photo-1584812261582-efe582e4c124?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bW91bnRhaW4sdHJhbnF1aWx8fHx8fHwxNzExMDMzMTky&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+    "description": "Encontre consolo e tranquilidade em meio a picos imponentes e natureza intocada neste refúgio isolado nas montanhas.",
+    "rating": 4.8,
+    "price": "80",
+    "duration": "5",
+    "location": "Canadá",
+    "category": "Montanhas"
+  },
+  {
+    "id": "16",
+    "name": "Santuário à beira-mar",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
+    "description": "Fuja para um santuário sereno à beira-mar com vistas deslumbrantes do oceano, praias imaculadas e acomodações luxuosas.",
+    "rating": 4.7,
+    "price": "100",
+    "duration": "3",
+    "location": "Itália",
+    "category": "Praias"
+  },
+  {
+    "id": "17",
+    "name": "Alojamento Alpino à Beira do Lago",
+    "image": "https://images.unsplash.com/photo-1508899005055-fb1677e7b887?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Relaxe nas margens tranquilas de um lago alpino, cercado por picos majestosos e natureza intocada.",
+    "rating": 4.6,
+    "price": "100",
+    "duration": "3",
+    "location": "Canadá",
+    "category": "Lagos"
+  },
+  {
+    "id": "18",
+    "name": "Oásis Urbano",
+    "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?q=80&w=3452&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Descubra um oásis tranquilo em meio à movimentada paisagem urbana, onde jardins exuberantes e lagos tranquilos proporcionam descanso.",
+    "rating": 4.8,
+    "price": "90",
+    "duration": "3",
+    "location": "Singapura",
+    "category": "Cidades"
+  },
+  {
+    "id": "19",
+    "name": "Whispering Woods Retreat",
+    "image": "https://images.unsplash.com/photo-1574288339398-531d55fd84f3?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Retiro na Floresta Sussurrante",
+    "rating": 4.9,
+    "price": "140",
+    "duration": "3",
+    "location": "EUA",
+    "category": "Florestas"
+  },
+  {
+    "id": "20",
+    "name": "Sapphire Shores Beach Resort",
+    "image": "https://plus.unsplash.com/premium_photo-1681223447383-402912b83029?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Experimente o epítome da vida luxuosa à beira-mar com águas cor de safira, areias cristalinas e comodidades de classe mundial.",
+    "rating": 4.7,
+    "price": "150",
+    "duration": "3",
+    "location": "Bahamas",
+    "category": "Praias"
+  }
+]
